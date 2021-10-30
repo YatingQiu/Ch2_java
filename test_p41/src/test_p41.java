@@ -15,7 +15,7 @@ public class test_p41 {
 		
 		for(int i=0; i<5; i++)
 		{
-		System.out.println("²Ä" +(i+1) + "­Ó¤Hªº¤À¼Æ¬O" +test[i] + "¤À");
+		System.out.println("ç¬¬" +(i+1) + "å€‹äººçš„åˆ†æ•¸æ˜¯" +test[i] + "åˆ†");
 		}
 	}
 }
