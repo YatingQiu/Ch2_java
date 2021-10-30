@@ -6,8 +6,8 @@ public class test_p24 {
 	public static void main(String[] args) throws IOException
 	{
 		for(int i=1; i<=5; i++) {
-		   System.out.println("²Ä" + i + "¦¸ªº°j°é");
+		   System.out.println("ç¬¬" + i + "æ¬¡çš„è¿´åœˆ");
 	    }
-	    System.out.println("°j°éµ²§ô");
+	    System.out.println("è¿´åœˆçµæŸ");
 	}
 }
