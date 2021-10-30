@@ -1,13 +1,13 @@
 import java.io.IOException;
 
-public class tese_p28 {
+public class test_p28 {
 	public static void main(String[] args) throws IOException
 	{
 		int i=1;
 		do{
-		   System.out.println("²Ä" + i + "¦¸ªº°j°é");
+		   System.out.println("ç¬¬" + i + "æ¬¡çš„è¿´åœˆ");
 		   i++;
 	    }while(i<=5);
-	    System.out.println("°j°éµ²§ô");
+	    System.out.println("è¿´åœˆçµæŸ");
 	}
 }
